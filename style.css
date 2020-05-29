@@ -1,3 +1,26 @@
 body {
     font-family: 'Inter', sans-serif;
 }
+
+input,
+textarea {
+    display: block;
+    padding: 10px;
+}
+
+textarea {
+    width: 100%;
+}
+
+label {
+    margin-top: 10px;
+}
+
+.form-container {
+    border: 1px solid #f1f1f1;
+    padding: 20px;
+}
+
+.form-footer {
+    padding: 20px;
+}
